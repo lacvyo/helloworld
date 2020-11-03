@@ -3,4 +3,4 @@ def print_world(name):
 
 
 if __name__ == '__main__':
-    print_world('Game Over')
+    print_world('Hello World')
